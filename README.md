@@ -1,1 +1,1 @@
-# Quiz_or_Exam_Management_System
+# Quiz_Management_System
