@@ -102,6 +102,7 @@ public class quizExamStudent extends javax.swing.JFrame {
      */
     public quizExamStudent() {
         initComponents();
+        question();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setExtendedState(JFrame.MAXIMIZED_BOTH);
     }
