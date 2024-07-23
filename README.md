@@ -53,9 +53,9 @@ This project is a Quiz Management System built using Java and MySQL in NetBeans 
 
 ## Screenshots
 
-![Login Screen](images/image_01.png)
-![Admin Dashboard](images/image_02.png)
-![Student Quiz](images/image_03.png)
+![Login Screen](images_readme/image_01.png)
+![Admin Dashboard](images_readme/image_02.png)
+![Student Quiz](images_readme/image_03.png)
 
 
 
