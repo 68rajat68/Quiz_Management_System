@@ -10,6 +10,7 @@ This project is a Quiz Management System built using Java and MySQL in NetBeans 
 
 - **Admin Functionality:**
   - Add, update, and delete quiz questions.
+  - Can add new Papers.
   - View results for all students.
 
 ## Getting Started
