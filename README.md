@@ -66,5 +66,3 @@ This project is a Quiz Management System built using Java and MySQL in NetBeans 
 
 
 
-For more information, please visit the [GitHub Repository](https://github.com/68rajat68/quiz-management-system).
-
